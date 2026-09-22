@@ -259,6 +259,7 @@ h1, h2, h3, h4 {
 /* SPRAVATO highlight callout (inside dark services section) */
 .spravato-callout {
   margin-top: 40px;
+  margin-bottom: 24px;
   background: linear-gradient(90deg, rgba(41,171,226,0.16), rgba(41,171,226,0.03));
   border: 1px solid rgba(41,171,226,0.45);
   border-radius: 8px;
