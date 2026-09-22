@@ -260,8 +260,8 @@ h1, h2, h3, h4 {
 .spravato-callout {
   margin-top: 40px;
   margin-bottom: 24px;
-  background: linear-gradient(90deg, rgba(41,171,226,0.16), rgba(41,171,226,0.03));
-  border: 1px solid rgba(41,171,226,0.45);
+  background: linear-gradient(90deg, rgba(223,124,60,0.16), rgba(223,124,60,0.03));
+  border: 1px solid rgba(223,124,60,0.55);
   border-radius: 8px;
   padding: 28px 34px;
   display: flex;
@@ -274,7 +274,7 @@ h1, h2, h3, h4 {
   font-weight: 800;
   letter-spacing: 0.04em;
   color: #fff;
-  background: var(--cyan);
+  background: #DF7C3C;
   padding: 12px 20px;
   border-radius: 6px;
   font-size: 1.1rem;
@@ -289,7 +289,8 @@ h1, h2, h3, h4 {
   margin-bottom: 6px;
 }
 .spravato-text p { color: #cfd6e0; margin: 0; }
-.spravato-btn { flex-shrink: 0; }
+.spravato-btn { flex-shrink: 0; background: #DF7C3C; }
+.spravato-btn:hover { background: #C96A2D; }
 
 .services-cta { text-align: center; margin-top: 54px; }
 .btn-ghost-light {
