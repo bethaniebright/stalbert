@@ -301,7 +301,7 @@ h1, h2, h3, h4 {
 /* ---------- Team ---------- */
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 26px;
   margin-top: 8px;
 }
